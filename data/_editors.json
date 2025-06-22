@@ -15,8 +15,8 @@
         "link": "https://www.youtube.com/channel/UCSCWXBx3B2E9BY31TMOKsqA"
     },
     {
-        "role": "rip_bedrock",
-        "name": "Trial List Helper",
+        "role": "trial",
+        "name": "rip_bedrock",
         "link": "#"
     }
 ]
