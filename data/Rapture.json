@@ -14,11 +14,11 @@
             "percent": 100,
             "hz": "-"
         }
-          {
+        {
             "user": "MyniwGuels",
             "link": "https://youtu.be/V70Jl9IbfOk",
             "percent": 100,
-            "hz": "360"
-        }
+            "hz": 360
+         }
     ]
 }
